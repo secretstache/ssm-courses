@@ -9,7 +9,7 @@
  * Plugin Name: SSM Courses
  * Plugin URI:  http://secretstache.com
  * Description: Enables a Course Custom Post Type.
- * Version:     0.1.0
+ * Version:     0.1.1
  * Author:      Secret Stache Media
  * Author URI:  http://secretstache.com
  * Text Domain: ssm-courses
