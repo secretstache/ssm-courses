@@ -1,4 +1,5 @@
 {
   "0.1.0" : "Initial Release",
-  "0.1.1" : "Version bump to test continuous integration"
+  "0.1.1" : "Version bump to test continuous integration",
+  "0.1.1" : "Another version bump to test continuous integration"
 }
