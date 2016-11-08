@@ -65,4 +65,3 @@ $MyUpdateChecker = new PluginUpdateChecker_2_0 (
     'ssm-courses',
     1
 );
-// $MyUpdateChecker->purchaseCode = "somePurchaseCode";  <---- Optional!
