@@ -3,5 +3,6 @@
   "0.1.1" : "Version bump to test continuous integration",
   "0.1.2" : "Another version bump to test continuous integration",
   "0.1.3" : "Adds acf-json folder and acf-ssm-course-info.json",
-  "0.1.4" : "Adds cpt support for page-attributes"
+  "0.1.4" : "Adds cpt support for page-attributes",
+  "0.1.5" : "Adds hierarchical support course cpt. Bug fixes"
 }

@@ -66,11 +66,12 @@ class SSM_Courses_Registrations {
 			'publicly_queriable'	=> true,
 			'show_ui' 						=> true,
 			'show_in_nav_menus' 	=> true,
-			'rewrite'         		=> array( 'slug' => 'courses', ),
+			'rewrite'         		=> array( 'slug' => 'course', ),
 			'menu_position'   		=> 30,
 			'menu_icon'       		=> 'dashicons-welcome-learn-more',
 			'has_archive'					=> 'courses',
 			'exclude_from_search'	=> false,
+			'hierarchical'				=> true
 		);
 
 		$args = apply_filters( 'ssm_courses_args', $args );
