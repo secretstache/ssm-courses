@@ -55,6 +55,7 @@ class SSM_Courses_Registrations {
 		$supports = array(
 			'title',
 			'thumbnail',
+			'page-attributes'
 		);
 
 		$args = array(
